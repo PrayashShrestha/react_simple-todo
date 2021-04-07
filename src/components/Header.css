@@ -1,0 +1,18 @@
+.header_div {
+  height: 45px;
+  width: 100%;
+  background-color: #c7c7c7;
+  display: flex;
+  flex: 1;
+  align-items: center;
+  box-shadow: 3px 3px rgb(153, 145, 145);
+}
+.header {
+  margin: auto;
+  font-weight: 600;
+  font-size: 30px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: rgb(238, 99, 80);
+  text-shadow: 2px 2px black;
+}

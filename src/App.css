@@ -1,0 +1,10 @@
+.body {
+  background-color: rgb(228, 220, 208);
+  height: 100vh;
+  margin-top: 5px;
+}
+.todo_head {
+  margin-left: 50vw;
+  margin-top: 50px;
+  margin-bottom: 10px;
+}
