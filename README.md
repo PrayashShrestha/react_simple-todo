@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+the page is hosted at https://prayashshrestha.github.io/react_simple-todo/ Check It out
 
 ## Available Scripts
 
